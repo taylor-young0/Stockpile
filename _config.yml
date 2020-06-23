@@ -2,17 +2,17 @@
 page_title                                : Stockpile                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1234793120                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                :                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Stockpile                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Stock up on essentials and save.
+app_description                           : Stock up on sale items and save.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -35,15 +35,15 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Stock up on Sale Items
-    description                           : Buy essential items when they are on sale to save money.
+    description                           : Stockpile helps you save money by encouraging you to purchase more items while they are on sale. This helps you save money on items you were going to buy anyways.
     fontawesome_icon_name                 : shopping-cart
 
   - title                                 : Automatic Calculations
-    description                           : Maximum potential savings are automatically calculated to help save the most money.
+    description                           : Product expiration date, and daily, weekly, or monthly consumption are all entered and used to calculate the maximum possible savings.
     fontawesome_icon_name                 : calculator
 
   - title                                 : Lifetime Savings
-    description                           : All individual stockpile savings are conveniently summed to provide lifetime savings.
+    description                           : Each individual saving is added up to provide a summation of lifetime savings. This informative total aims to provide validation that small savings can add up over time.
     fontawesome_icon_name                 : money-bill-alt
 
 # Theme Settings
