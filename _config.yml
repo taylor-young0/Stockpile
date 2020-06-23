@@ -35,7 +35,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Stock up on Sale Items
-    description                           : Stockpile helps you save money by encouraging you to purchase more items while they are on sale. This helps you save money on items you were going to buy anyways.
+    description                           : Stockpile helps you save money by encouraging you to purchase more items you regularly buy while they are on sale. This helps you save money on items you were going to buy anyways.
     fontawesome_icon_name                 : shopping-cart
 
   - title                                 : Automatic Calculations
